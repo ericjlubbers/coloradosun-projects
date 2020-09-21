@@ -1,1 +1,8 @@
-$color-primary: #20232a;
+$color-primary: #fcd232;
+$dark:          #212121 !default;
+
+$font-family-sans-serif: 'Libre Franklin',-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+$font-family-monospace: 'IBM Plex Mono',SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
+
+
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
