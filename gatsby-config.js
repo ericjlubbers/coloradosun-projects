@@ -32,7 +32,7 @@ module.exports = {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         google: {
-          families: ['Libre Franklin:300,400,700,800,900', 'Martel:300,400,700,800,900', 'IBM Plex Mono', 'Martel Sans']
+          families: ['Libre Franklin:300,400,700,800,900', 'Martel:300,400,700,800,900', 'IBM Plex Mono', 'Martel Sans:200,400,700,800,900']
         }
       }
     },
